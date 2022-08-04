@@ -17,6 +17,7 @@ public class Tictactoe {
     		board[i] = ' ';
     	}		
 	}
+    
 
 	public static void main(String[] args) {
 		System.out.println("welcome to tictactoe simulation");
